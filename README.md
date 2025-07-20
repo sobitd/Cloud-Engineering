@@ -118,6 +118,33 @@
 | Fri   | Patch, rotate secrets, finalize security audit        | 2 hrs     | —                                           |
 | Sat   | Final project: secure, monitored, audited cloud app   | 4-6 hrs   | —                                           |
 | Sun   | Finalize documentation, push to GitHub                 | 4 hrs     | —                                           |
+---
+
+## Projects
+
+### 1. Linux Sysadmin Automation Script  
+**Goal:** Create bash scripts to automate system maintenance tasks such as backups, log rotation, and user management.  
+**Skills:** Bash scripting, cron jobs, systemd services, logging.
+
+### 2. Python Log Parser  
+**Goal:** Build a Python script that parses system or application logs, identifies failed login attempts or errors, and generates reports.  
+**Skills:** Python file I/O, regex, exception handling, CLI tools.
+
+### 3. REST API with FastAPI  
+**Goal:** Develop a RESTful API with CRUD operations backed by SQLite/PostgreSQL. Include input validation, error handling, and unit tests.  
+**Skills:** FastAPI, Pydantic, testing with pytest, database integration.
+
+### 4. Dockerized API Deployment  
+**Goal:** Containerize your API using Docker and deploy it to Azure App Service or Azure Container Instances.  
+**Skills:** Docker, Azure CLI, container registries, deployment.
+
+### 5. CI/CD Pipeline  
+**Goal:** Build an automated pipeline using GitHub Actions to build, test, and deploy your Dockerized app to Azure.  
+**Skills:** GitHub Actions workflows, secrets management, Infrastructure as Code with Terraform.
+
+### 6. Cloud Security Hardening  
+**Goal:** Implement cloud security best practices including role-based access control, TLS, scanning with Trivy/Bandit, and monitoring with Azure Security Center.  
+**Skills:** Azure IAM, security scanning, logging, threat modeling.
 
 ---
 
